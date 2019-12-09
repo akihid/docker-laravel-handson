@@ -1,4 +1,0 @@
-172.22.0.1 - - [09/Dec/2019:15:11:46 +0900] "GET /phpinfo.php HTTP/1.1" 200 89312 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" "-"
-172.22.0.1 - - [09/Dec/2019:15:11:48 +0900] "GET /favicon.ico HTTP/1.1" 404 27 "http://127.0.0.1:10080/phpinfo.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" "-"
-172.22.0.1 - - [09/Dec/2019:15:16:56 +0900] "GET / HTTP/1.1" 200 2438 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" "-"
-172.22.0.1 - - [09/Dec/2019:15:16:57 +0900] "GET /favicon.ico HTTP/1.1" 200 0 "http://127.0.0.1:10080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" "-"
